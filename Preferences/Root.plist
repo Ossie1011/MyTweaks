@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" 
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Title</key>
+    <string>Battery Customizer</string>
+    <key>PreferenceSpecifiers</key>
+    <array>
+        <dict>
+            <key>Type</key>
+            <string>PSNumericTextFieldSpecifier</string>
+            <key>Title</key>
+            <string>Battery Percentage</string>
+            <key>Key</key>
+            <string>BatteryPercentage</string>
+            <key>DefaultValue</key>
+            <integer>100</integer>
+        </dict>
+    </array>
+</dict>
+</plist>
